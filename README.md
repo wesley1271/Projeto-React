@@ -8,7 +8,7 @@ Olá! Esse é o meu **primeiro projeto desenvolvido com React**, criado enquanto
 - 💾 **Persistência de dados** via LocalStorage (os dados ficam salvos no navegador)
 ---
 ## 🛠️ Tecnologias utilizadas
-| Tecnologia | Por que usei |
+| Tecnologia | Funcionalidade |
 |---|---|
 | [React 18](https://react.dev/) | Biblioteca principal para construir a interface |
 | [Vite](https://vitejs.dev/) | Ferramenta de build rápida para desenvolvimento |
