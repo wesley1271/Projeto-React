@@ -18,10 +18,7 @@ Olá! Esse é o meu **primeiro projeto desenvolvido com React**, criado enquanto
 | [UUID](https://www.npmjs.com/package/uuid) | Geração de IDs únicos para cada tarefa |
 | LocalStorage | Salvar as tarefas no próprio navegador do usuário |
 ---
-## 📁 Estrutura do projeto
-src/ ├── components/ │ ├── AddTasks.jsx → Formulário para adicionar nova tarefa │ ├── Tasks.jsx → Lista de tarefas │ ├── Button.jsx → Botão reutilizável │ ├── Input.jsx → Campo de entrada reutilizável │ └── Title.jsx → Título da página ├── pages/ │ └── TaskPage.jsx → Página principal de tarefas ├── App.jsx → Componente raiz com toda a lógica └── main.jsx → Ponto de entrada da aplicação
 
----
 ## 💡 O que aprendi com esse projeto
 Esse projeto foi meu laboratório de aprendizagem! Principais conceitos que pratiquei:
 - **`useState`** — para guardar e atualizar a lista de tarefas
